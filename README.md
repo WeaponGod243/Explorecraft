@@ -1,2 +1,2 @@
 # Explorecraft
-A fork of Minicraft+
+The newest minicraft-esque game
